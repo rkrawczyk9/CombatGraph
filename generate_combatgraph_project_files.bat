@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.exe" -projectfiles -project="C:\Users\robert.krawczyk\Documents\Unreal Projects\CombatGraph\CombatGraph.uproject" -game -rocket -progress -engine -VSCode

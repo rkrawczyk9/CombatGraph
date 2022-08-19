@@ -6,6 +6,7 @@ import unreal
 
 
 def main():
+    # Until we figure out GUI, uncomment one of these and save to choose what to set it to.
     #set_additive(additive=unreal.AdditiveAnimationType.AAT_NONE)
     # set_additive(additive=unreal.AdditiveAnimationType.AAT_LOCAL_SPACE_BASE)
     set_additive(additive=unreal.AdditiveAnimationType.AAT_ROTATION_OFFSET_MESH_SPACE)
@@ -96,6 +97,7 @@ def set_additive(anim_seqs = None, additive = None, ref_pose_type = None, ref_po
         for anim_seq in anim_seqs:
             # Update progress bar
             slow_task.enter_progress_frame(1)
+            
             if slow_task.should_cancel():
                 break
 

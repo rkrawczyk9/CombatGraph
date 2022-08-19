@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "CombatGraphEditor Editor Win64 Development (CombatGraph)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\.vscode\\compileCommands_CombatGraph.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,52 @@
+[
+	{
+		"file": "C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\Plugins\\RobLibrary\\Source\\RobLibrary\\Private\\RobLibrary.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\.vscode\\compileCommands_Default\\RobLibrary.58.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\Plugins\\RobLibrary\\Source\\RobLibrary\\Private\\RobLibraryBPLibrary.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\.vscode\\compileCommands_Default\\RobLibrary.58.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\Plugins\\RobLibrary\\Source\\RobLibrary\\Public\\RobLibrary.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\.vscode\\compileCommands_Default\\RobLibrary.58.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\Plugins\\RobLibrary\\Source\\RobLibrary\\Public\\RobLibraryBPLibrary.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\.vscode\\compileCommands_Default\\RobLibrary.58.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\Plugins\\RobLibrary\\Source\\RobLibrary\\RobLibrary.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\.vscode\\compileCommands_Default\\RobLibrary.58.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\Source\\CombatGraph\\CombatGraph.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\.vscode\\compileCommands_Default\\CombatGraph.227.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\Source\\CombatGraph\\CombatGraph.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\.vscode\\compileCommands_Default\\CombatGraph.227.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\Source\\CombatGraph\\CombatGraph.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\.vscode\\compileCommands_Default\\CombatGraph.227.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\Source\\CombatGraph\\Private\\RAnimUtility.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\.vscode\\compileCommands_Default\\CombatGraph.227.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\Source\\CombatGraph\\Public\\RAnimUtility.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\robert.krawczyk\\Documents\\Unreal Projects\\CombatGraph\\.vscode\\compileCommands_Default\\CombatGraph.227.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
